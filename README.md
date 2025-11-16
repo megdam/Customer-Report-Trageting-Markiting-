@@ -1,5 +1,7 @@
 Customer Insights Report (Targeted Marketing)
 Prepared by: Megdam Ali – Data Analyst
+<img width="1872" height="951" alt="Image" src="https://github.com/user-attachments/assets/90d92350-1967-4f25-a721-8596003997f2" />
+
 1. Key Highlights
 
 - Total Revenue: $307.09M
